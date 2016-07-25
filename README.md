@@ -19,3 +19,5 @@ https://confluence.dc1.lan/
 # first get uid
 id tschoots
 mount -o nosuid,uid=1000,gid=1000 -t vboxsf hub_installers /mnt/hub_installers/
+
+http://superuser.com/questions/196653/how-do-i-manually-mount-a-linux-file-system-read-write-as-a-normal-user
