@@ -7,3 +7,12 @@ http://www.socsci.uci.edu/~jstern/uci_vpn_ubuntu/
 https://vpn-dc1.blackducksoftware.com/+CSCOE+/logon.html#form_title_text
 4. install chrome
 http://www.tecmint.com/install-google-chrome-in-debian-ubuntu-linux-mint/
+5. go to artifactory
+http://artifactory.blackducksoftware.com/artifactory/simple/bds-release/com/blackducksoftware/hub/appmgr.hubinstall.full/
+6. jira
+https://jira.dc2.lan/
+7. confluence
+https://confluence.dc1.lan/
+8. install hipchat
+
+
