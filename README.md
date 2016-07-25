@@ -15,4 +15,7 @@ https://jira.dc2.lan/
 https://confluence.dc1.lan/
 8. install hipchat
 
-
+#mount for a specific user
+# first get uid
+id tschoots
+mount -o nosuid,uid=1000,gid=1000 -t vboxsf hub_installers /mnt/hub_installers/
