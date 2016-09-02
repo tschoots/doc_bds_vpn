@@ -16,7 +16,8 @@ https://confluence.dc1.lan/
 8. install hipchat
 
 # scratch urls
-http://artifactory.blackducksoftware.com/artifactory/bds-ci/com/blackducksoftware/hub/appmgr.hubinstall/3.3.1-SNAPSHOT/
+https://updates.suite.blackducksoftware.com/appmgr.artifacts/bds-release-staging/com/blackducksoftware/hub/appmgr.hubinstall.full/3.3.1/appmgr.hubinstall.full-3.3.1.zip?authToken=nasa_hub_test_2_4_0_pre
+
 
 #mount for a specific user
 # first get uid
