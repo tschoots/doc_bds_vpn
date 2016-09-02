@@ -15,6 +15,9 @@ https://jira.dc2.lan/
 https://confluence.dc1.lan/
 8. install hipchat
 
+# scratch urls
+http://artifactory.blackducksoftware.com/artifactory/bds-ci/com/blackducksoftware/hub/appmgr.hubinstall/3.3.1-SNAPSHOT/
+
 #mount for a specific user
 # first get uid
 id tschoots
