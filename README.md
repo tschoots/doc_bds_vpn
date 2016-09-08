@@ -21,3 +21,6 @@ id tschoots
 mount -o nosuid,uid=1000,gid=1000 -t vboxsf hub_installers /mnt/hub_installers/
 
 http://superuser.com/questions/196653/how-do-i-manually-mount-a-linux-file-system-read-write-as-a-normal-user
+
+mount -t vboxsf -o umask=0022,gid=33,uid=33 dev /var/www
+http://superuser.com/questions/320415/linux-mount-device-with-specific-user-rights
