@@ -30,4 +30,5 @@ mount -t vboxsf -o umask=0022,gid=33,uid=33 dev /var/www
 http://superuser.com/questions/320415/linux-mount-device-with-specific-user-rights
 
 # line command
-printf "rdejong\n;???\ny" | /opt/cisco/anyconnect/bin/vpn -s connect vpn-dc1.blackducksoftware.com
+printf "rdejong\n;???\ny" | /opt/cisco/anyconnect/bin/vpn -s connect vpn-dc1.blackducksoftware.com<br>
+printf "USERNAME\nPASSWORD\ny" | /opt/cisco/anyconnect/bin/vpn -s connect HOST
